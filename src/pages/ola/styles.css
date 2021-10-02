@@ -1,0 +1,10 @@
+.PagesOla__main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.PagesOla__main h1 {
+  color: red;
+}
